@@ -10,4 +10,5 @@ public class Shape {
 	private double field;
 	private Color color;
 	private double circuit;
+	private int armCount;
 }
