@@ -1,5 +1,6 @@
 package pl.mlopatka.model.cars;
 
+import pl.mlopatka.model.animals.Animal;
 import pl.mlopatka.model.colors.Color;
 
 /**
@@ -8,6 +9,6 @@ import pl.mlopatka.model.colors.Color;
 public class Car {
 	
 	private Color color;
+	private Animal animal;
 	private Color color2;
-	
 }
