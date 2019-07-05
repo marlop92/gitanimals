@@ -8,4 +8,6 @@ import pl.mlopatka.model.colors.Color;
 public class Car {
 	
 	private Color color;
+	private Color color2;
+	
 }
