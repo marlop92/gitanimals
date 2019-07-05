@@ -10,5 +10,6 @@ public class Shape {
 	private double field;
 	private Color color;
 	private double circuit;
+	private String bla;
 	private int armCount;
 }
